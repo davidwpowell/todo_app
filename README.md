@@ -2,4 +2,4 @@
 
 Simple To Do app using Meteor.js
 
-Demo it at dp-todo-app.meteor.com
+Demo it at http://dp-todo-app.meteor.com
